@@ -5,49 +5,56 @@ Markdown
 
 Ziel
 
-**Hinweis Feld:**
+#### Hinweis Feld
 
-| Beschriebung| Eingabe| Ausgabe | 
-| --- |--- | ---     |
-| Hinweis Feld|`**Hinweis:** Aliquam arcu lectus, imperdiet` | **Hinweis:** Aliquam arcu lectus, imperdiet  | 
-| Small Text |`<small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>` | <small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>  | 
-
+Eingabe 
+`> **Hinweis:** Aliquam arcu lectus, imperdiet sollicitudin`
 
 Ausgabe
 
 > **Hinweis:** Aliquam arcu lectus, imperdiet sollicitudin
 
-**Klein schreiben**
+***
+#### Klein schreiben
 
 Eingabe
-
-```
-<small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>
-```
+`<small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>`
 
 Ausgabe
-
 <small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>
 
-**Link erstellen**
+***
+#### Link erstellen
+
 Eingabe
-```
-[What is Git? _2min_](https://youtu.be/2ReR1YJrNOM) 
-```
+`[What is Git? _2min_](https://youtu.be/2ReR1YJrNOM)`
+
 Ausgabe
-
 [What is Git? _2min_](https://youtu.be/2ReR1YJrNOM) 
 
-**Bild darstellen**
- ![Gituebersicht](/images/git_flow.jpg)
+***
+#### Bild darstellen
 
-Back to top botton erstellen:
-#Ziel = Gewünschter Titel weiter oben 
-> [⇧ **Back to top**](#Ziel)
+Eingabe
+`![Gituebersicht](/images/github.png)`
 
-# Übersicht SSH Key 
+Ausgabe 
+![Gituebersicht](/images/github.png)
 
-Guter Links: 
+***
+ #### Back to top botton erstellen
+
+Eingabe
+`### Hinweis Feld`
+
+`> [⇧ **Back to top**](#Hinweis-Feld)     -> #Hinweis-Feld = Gewünschter Titel weiter oben / Bindestrich = Abstand`
+
+Ausgabe
+> [⇧ **Back to top**](#Hinweis-Feld)
+
+***
+#### Quelle / Links
+
 Cheatsheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Emojy : https://gist.github.com/rxaviers/7360908
 Icons: https://github.com/edent/SuperTinyIcons
@@ -55,6 +62,6 @@ Readme Typing SVG: https://readme-typing-svg.demolab.com/demo/
 
 ---
 
-> [⇧ **Zurück zur Basic Seite**](/basic/README.md)
+> [⇧ **Back to top**](#Ziel)
 
 ---
