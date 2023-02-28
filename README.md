@@ -24,6 +24,15 @@ Ausgabe:
 <small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>
 
 ***
+#### Rot schreiben
+
+Eingabe:
+`In his beard lived three <span style="color:red">cardinals</span>.`
+
+Ausgabe:
+In his beard lived three <span style="color:red">cardinals</span>.
+
+***
 #### Link erstellen
 
 Eingabe:
