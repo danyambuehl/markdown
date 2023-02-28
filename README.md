@@ -54,7 +54,8 @@ Ausgabe:
  #### Back to top botton erstellen
 
 Eingabe:
-`### Hinweis Feld`
+`### Hinweis Feld`$
+
 `> [⇧ **Back to top**](#Hinweis-Feld)     -> #Hinweis-Feld = Gewünschter Titel weiter oben / Bindestrich = Abstand`
 
 Ausgabe:
@@ -64,8 +65,11 @@ Ausgabe:
 #### Quelle / Links
 
 Cheatsheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Emojy : https://gist.github.com/rxaviers/7360908
+
 Icons: https://github.com/edent/SuperTinyIcons
+
 Readme Typing SVG: https://readme-typing-svg.demolab.com/demo/
 
 ---
