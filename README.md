@@ -3,53 +3,52 @@ Markdown
 
 # Ziel
 
-Ziel
+Das Ziel ist es, ein kurzes und Übersichtliches "Cheat Sheet" für markdwon zu erstellen.
 
+***
 #### Hinweis Feld
 
-Eingabe 
+Eingabe:  
 `> **Hinweis:** Aliquam arcu lectus, imperdiet sollicitudin`
 
-Ausgabe
-
+Ausgabe:
 > **Hinweis:** Aliquam arcu lectus, imperdiet sollicitudin
 
 ***
 #### Klein schreiben
 
-Eingabe
+Eingabe:
 `<small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>`
 
-Ausgabe
+Ausgabe:
 <small>Quelle: [www.blindtextgenerator.de](http://www.blindtextgenerator.de)</small>
 
 ***
 #### Link erstellen
 
-Eingabe
+Eingabe:
 `[What is Git? _2min_](https://youtu.be/2ReR1YJrNOM)`
 
-Ausgabe
+Ausgabe:
 [What is Git? _2min_](https://youtu.be/2ReR1YJrNOM) 
 
 ***
 #### Bild darstellen
 
-Eingabe
+Eingabe:
 `![Gituebersicht](/images/github.png)`
 
-Ausgabe 
+Ausgabe:
 ![Gituebersicht](/images/github.png)
 
 ***
  #### Back to top botton erstellen
 
-Eingabe
+Eingabe:
 `### Hinweis Feld`
-
 `> [⇧ **Back to top**](#Hinweis-Feld)     -> #Hinweis-Feld = Gewünschter Titel weiter oben / Bindestrich = Abstand`
 
-Ausgabe
+Ausgabe:
 > [⇧ **Back to top**](#Hinweis-Feld)
 
 ***
